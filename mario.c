@@ -7,6 +7,7 @@ int main(void)
   int height = get_int("What is the height of the pyramid?");
 
 
+
   
   // Print a pyramid of that height
 }
